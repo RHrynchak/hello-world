@@ -1,2 +1,3 @@
 # hello-world
-just practicing and learning fundamentals
+Hi!
+Just practicing and learning fundamentals
